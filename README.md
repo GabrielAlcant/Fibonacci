@@ -29,12 +29,5 @@ $ python3 fibonacci.py 5
 
 ## Estrutura
 
-- `fibonacci.py` - script principal que calcula o termo da sequência.
+- `fibonacci.py`
 
-## Contribuições
-
-Sinta-se à vontade para abrir issues ou pull requests.
-
-## Licença
-
-Este projeto não possui licença especificada.
